@@ -1,3 +1,11 @@
+---
+layout: narrative
+title: Preface to Roderick Hudson
+author: Henry James
+publication-date: 1907
+source: "James, Henry. Roderick Hudson. New York: Charles Scribner's Sons, 1907."
+---
+
 # Prefaces to _The Novels and Tales of Henry James_
 ## Henry James
 ## Volume 1: Preface to _Roderick Hudson_
