@@ -1,8 +1,8 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
+title:               The New New York Edition
+tagline:             'A scholarly edition of Henry James for the 21st century'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://shawnaross.github.io'
 baseurl:             '/ed'
