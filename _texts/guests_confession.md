@@ -1,3 +1,10 @@
+---
+layout: narrative
+title: Guest's Confession
+author: Henry James
+publication-date: 1872
+---
+
 Guest's Confession
 
 1
