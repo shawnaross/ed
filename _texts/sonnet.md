@@ -2,6 +2,7 @@
 layout: poem
 title: Sonnet 1
 author: William Shakespeare
+publication-date: 1623
 source: https://www.sparknotes.com/shakespeare/shakesonnets/section1/
 ---
 
